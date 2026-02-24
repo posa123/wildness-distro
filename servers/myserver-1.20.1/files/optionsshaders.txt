@@ -1,0 +1,3 @@
+shaderPack=ComplementaryUnbound_r5.0.zip
+oldLighting=true
+oldHandLight=false

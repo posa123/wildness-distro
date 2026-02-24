@@ -491,6 +491,28 @@
             "url": "https://posa123.github.io/wildness-distro/servers/myserver-1.20.1/forgemods/required/voicechat-forge-1.20.1-2.6.1.jar",
             "MD5": "709efd3a936d4e9e38938091cabee186"
           }
+        },
+        {
+          "id": "optionsshaders.txt",
+          "name": "optionsshaders.txt",
+          "type": "File",
+          "artifact": {
+            "size": 78,
+            "url": "https://posa123.github.io/wildness-distro/servers/myserver-1.20.1/files/optionsshaders.txt",
+            "MD5": "f07436097a903947cb73d0d7b5adb6a0",
+            "path": "optionsshaders.txt"
+          }
+        },
+        {
+          "id": "ComplementaryUnbound_r5.0.zip",
+          "name": "ComplementaryUnbound_r5.0.zip",
+          "type": "File",
+          "artifact": {
+            "size": 402262,
+            "url": "https://posa123.github.io/wildness-distro/servers/myserver-1.20.1/files/shaderpacks/ComplementaryUnbound_r5.0.zip",
+            "MD5": "975991ee758f3b3d1ef17b0d295b5b8c",
+            "path": "shaderpacks/ComplementaryUnbound_r5.0.zip"
+          }
         }
       ]
     }
