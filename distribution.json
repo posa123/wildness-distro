@@ -443,16 +443,6 @@
           }
         },
         {
-          "id": "invtweaks:invtweaks:1.0.0@jar",
-          "name": "Inventory Tweaks Refoxed",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 73267,
-            "url": "https://posa123.github.io/wildness-distro/servers/myserver-1.20.1/forgemods/required/invtweaks-1.20.1-1.0.0.jar",
-            "MD5": "c1f921e718efd47bfc3e064c3ccfa73f"
-          }
-        },
-        {
           "id": "journeymap:journeymap:5.9.24@jar",
           "name": "Journeymap",
           "type": "ForgeMod",
@@ -470,6 +460,16 @@
             "size": 316542,
             "url": "https://posa123.github.io/wildness-distro/servers/myserver-1.20.1/forgemods/required/koreanpatch-forge-1.9.5+mc1.20.1.jar",
             "MD5": "b7c99a33c48f6ae31de7f7f6038800c2"
+          }
+        },
+        {
+          "id": "yalter.mousetweaks:mousetweaks:2.25.1@jar",
+          "name": "Mouse Tweaks",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 76237,
+            "url": "https://posa123.github.io/wildness-distro/servers/myserver-1.20.1/forgemods/required/MouseTweaks-forge-mc1.20.1-2.25.1.jar",
+            "MD5": "ce4b5bbb9ef6a7905c458ab599ef4cb2"
           }
         },
         {
