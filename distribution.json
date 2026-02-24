@@ -473,13 +473,13 @@
           }
         },
         {
-          "id": "su.plo.voice:plasmovoice:2.1.8@jar",
-          "name": "Plasmo Voice",
+          "id": "de.maxhenkel.voicechat:voicechat:1.20.1-2.6.1@jar",
+          "name": "Simple Voice Chat",
           "type": "ForgeMod",
           "artifact": {
-            "size": 12182458,
-            "url": "https://posa123.github.io/wildness-distro/servers/myserver-1.20.1/forgemods/required/plasmovoice-forge-1.20.1-2.1.8.jar",
-            "MD5": "234d1a76ae25f5efc220ac879981c7e0"
+            "size": 4881013,
+            "url": "https://posa123.github.io/wildness-distro/servers/myserver-1.20.1/forgemods/required/voicechat-forge-1.20.1-2.6.1.jar",
+            "MD5": "709efd3a936d4e9e38938091cabee186"
           }
         }
       ]
