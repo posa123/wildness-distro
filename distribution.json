@@ -443,6 +443,16 @@
           }
         },
         {
+          "id": "org.anti_ad.mc.ipnext:inventoryprofilesnext:1.10.20@jar",
+          "name": "Inventory Profiles Next",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1457354,
+            "url": "https://posa123.github.io/wildness-distro/servers/myserver-1.20.1/forgemods/required/InventoryProfilesNext-forge-1.20-1.10.20.jar",
+            "MD5": "7e883e59d6e544574ef58c52562881a9"
+          }
+        },
+        {
           "id": "journeymap:journeymap:5.9.24@jar",
           "name": "Journeymap",
           "type": "ForgeMod",
@@ -460,6 +470,26 @@
             "size": 316542,
             "url": "https://posa123.github.io/wildness-distro/servers/myserver-1.20.1/forgemods/required/koreanpatch-forge-1.9.5+mc1.20.1.jar",
             "MD5": "b7c99a33c48f6ae31de7f7f6038800c2"
+          }
+        },
+        {
+          "id": "generated.forgemod:kotlinforforge:4.3.0-all@jar",
+          "name": "Kotlinforforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7513212,
+            "url": "https://posa123.github.io/wildness-distro/servers/myserver-1.20.1/forgemods/required/kotlinforforge-4.3.0-all.jar",
+            "MD5": "51ff9302c53328dbdf71802d02c68c17"
+          }
+        },
+        {
+          "id": "org.anti_ad.mc:libipn:4.0.2@jar",
+          "name": "LibIPN",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 693301,
+            "url": "https://posa123.github.io/wildness-distro/servers/myserver-1.20.1/forgemods/required/libIPN-forge-1.20-4.0.2.jar",
+            "MD5": "ef3a86f4867dba031dd6adef7e45d396"
           }
         },
         {
