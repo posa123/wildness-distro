@@ -493,6 +493,16 @@
           }
         },
         {
+          "id": "net.optifine:optifine:1.20.1_HD_U_I6@jar",
+          "name": "OptiFine",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6638739,
+            "url": "https://posa123.github.io/wildness-distro/servers/myserver-1.20.1/forgemods/required/OptiFine_1.20.1_HD_U_I6_MOD.jar",
+            "MD5": "6effcaffc5c6e68d651e84dbcd6c0dd3"
+          }
+        },
+        {
           "id": "com.tacz.guns:tacz:1.1.7-hotfix@jar",
           "name": "Timeless & Classics Guns: Zero",
           "type": "ForgeMod",
