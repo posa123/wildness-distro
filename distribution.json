@@ -493,16 +493,6 @@
           }
         },
         {
-          "id": "net.irisshaders.iris:oculus:1.8.0@jar",
-          "name": "Oculus",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 2851119,
-            "url": "https://posa123.github.io/wildness-distro/servers/myserver-1.20.1/forgemods/required/oculus-mc1.20.1-1.8.0.jar",
-            "MD5": "1dd891634ac21591b5a692471f112572"
-          }
-        },
-        {
           "id": "com.tacz.guns:tacz:1.1.7-hotfix@jar",
           "name": "Timeless & Classics Guns: Zero",
           "type": "ForgeMod",
