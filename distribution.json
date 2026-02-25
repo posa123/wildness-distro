@@ -493,13 +493,23 @@
           }
         },
         {
-          "id": "net.optifine:optifine:1.20.1_HD_U_I6@jar",
-          "name": "OptiFine",
+          "id": "net.irisshaders.iris:oculus:1.8.0@jar",
+          "name": "Oculus",
           "type": "ForgeMod",
           "artifact": {
-            "size": 6638739,
-            "url": "https://posa123.github.io/wildness-distro/servers/myserver-1.20.1/forgemods/required/OptiFine_1.20.1_HD_U_I6_MOD.jar",
-            "MD5": "6effcaffc5c6e68d651e84dbcd6c0dd3"
+            "size": 2851119,
+            "url": "https://posa123.github.io/wildness-distro/servers/myserver-1.20.1/forgemods/required/oculus-mc1.20.1-1.8.0.jar",
+            "MD5": "1dd891634ac21591b5a692471f112572"
+          }
+        },
+        {
+          "id": "me.jellysquid.mods.sodium.client:rubidium:0.7.1a@jar",
+          "name": "Rubidium",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 715190,
+            "url": "https://posa123.github.io/wildness-distro/servers/myserver-1.20.1/forgemods/required/rubidium-mc1.20.1-0.7.1a.jar",
+            "MD5": "234d6ddfff9313fb943abf4d038fe5f4"
           }
         },
         {
