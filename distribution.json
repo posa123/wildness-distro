@@ -493,16 +493,6 @@
           }
         },
         {
-          "id": "net.irisshaders.iris:oculus:1.7.0@jar",
-          "name": "Oculus",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 2831148,
-            "url": "https://posa123.github.io/wildness-distro/servers/myserver-1.20.1/forgemods/required/oculus-mc1.20.1-1.7.0.jar",
-            "MD5": "45b96133bb46cc61dd9778bd4fca741d"
-          }
-        },
-        {
           "id": "me.jellysquid.mods.sodium.client:rubidium:0.7.1@jar",
           "name": "Rubidium",
           "type": "ForgeMod",
