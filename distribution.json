@@ -443,6 +443,16 @@
           }
         },
         {
+          "id": "com.blamejared:controlling:12.0.2@jar",
+          "name": "Controlling",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 115280,
+            "url": "https://posa123.github.io/wildness-distro/servers/myserver-1.20.1/forgemods/required/Controlling-forge-1.20.1-12.0.2.jar",
+            "MD5": "952274bc9994bba9733e8747558f73fa"
+          }
+        },
+        {
           "id": "journeymap:journeymap:5.9.24@jar",
           "name": "Journeymap",
           "type": "ForgeMod",
@@ -510,6 +520,16 @@
             "size": 704856,
             "url": "https://posa123.github.io/wildness-distro/servers/myserver-1.20.1/forgemods/required/rubidium-mc1.20.1-0.7.1.jar",
             "MD5": "5a6a9dbad21f4d67f967c6ce369ecb0e"
+          }
+        },
+        {
+          "id": "com.blamejared:searchables:1.0.2@jar",
+          "name": "Searchables",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 77705,
+            "url": "https://posa123.github.io/wildness-distro/servers/myserver-1.20.1/forgemods/required/Searchables-forge-1.20.1-1.0.2.jar",
+            "MD5": "9e9dc021118c1c9727625a58a9290d48"
           }
         },
         {
