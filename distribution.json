@@ -453,13 +453,13 @@
           }
         },
         {
-          "id": "mcinterface1201:mts:23.0.0@jar",
+          "id": "mcinterface1201:mts:1.20.1-22.18.0-pre@jar",
           "name": "Immersive Vehicles (formerly MTS)",
           "type": "ForgeMod",
           "artifact": {
-            "size": 6224428,
-            "url": "https://posa123.github.io/wildness-distro/servers/myserver-1.20.1/forgemods/required/Immersive%20Vehicles-1.20.1-23.0.0.jar",
-            "MD5": "03bdda40817072bc72e21ab88bb1186b"
+            "size": 6203626,
+            "url": "https://posa123.github.io/wildness-distro/servers/myserver-1.20.1/forgemods/required/Immersive%20Vehicles-1.20.1-22.18.0-pre.jar",
+            "MD5": "437d9e9d6bc89e382d841a1aee7a9325"
           }
         },
         {
