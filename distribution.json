@@ -453,16 +453,6 @@
           }
         },
         {
-          "id": "mcinterface1201:mts:23.0.0@jar",
-          "name": "Immersive Vehicles (formerly MTS)",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 6224428,
-            "url": "https://posa123.github.io/wildness-distro/servers/myserver-1.20.1/forgemods/required/Immersive%20Vehicles-1.20.1-23.0.0.jar",
-            "MD5": "03bdda40817072bc72e21ab88bb1186b"
-          }
-        },
-        {
           "id": "journeymap:journeymap:5.9.24@jar",
           "name": "Journeymap",
           "type": "ForgeMod",
@@ -520,16 +510,6 @@
             "size": 2814481,
             "url": "https://posa123.github.io/wildness-distro/servers/myserver-1.20.1/forgemods/required/oculus-mc1.20.1-1.6.9.jar",
             "MD5": "dd3596e374db3975a2f83594da6a3e2b"
-          }
-        },
-        {
-          "id": "blockyrageaftermarket:blockyragecivil:69@jar",
-          "name": "R.A.G.E",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 28114264,
-            "url": "https://posa123.github.io/wildness-distro/servers/myserver-1.20.1/forgemods/required/rage-V2.3_1.20.1.jar",
-            "MD5": "86f3c8eced947486fca17b18a449cf93"
           }
         },
         {
