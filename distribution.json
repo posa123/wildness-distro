@@ -433,6 +433,16 @@
           ]
         },
         {
+          "id": "net.smileycorp.atlas:atlaslib:1.1.12@jar",
+          "name": "Atlas Lib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 124436,
+            "url": "https://posa123.github.io/wildness-distro/servers/myserver-1.20.1/forgemods/required/Atlas%20Lib-1.20.1-1.1.12.jar",
+            "MD5": "b63616d984991ee60d313938143eda3f"
+          }
+        },
+        {
           "id": "com.mrcrayfish.furniture:cfm:7.0.0-pre36@jar",
           "name": "MrCrayfish's Furniture Mod",
           "type": "ForgeMod",
@@ -470,6 +480,16 @@
             "size": 316542,
             "url": "https://posa123.github.io/wildness-distro/servers/myserver-1.20.1/forgemods/required/koreanpatch-forge-1.9.5+mc1.20.1.jar",
             "MD5": "b7c99a33c48f6ae31de7f7f6038800c2"
+          }
+        },
+        {
+          "id": "mcjty.lostcities:lostcities:1.20-7.4.11@jar",
+          "name": "LostCities",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1253469,
+            "url": "https://posa123.github.io/wildness-distro/servers/myserver-1.20.1/forgemods/required/lostcities-1.20-7.4.11.jar",
+            "MD5": "1117579794805c3bf23d173365edf6b8"
           }
         },
         {
@@ -540,6 +560,16 @@
             "size": 52425650,
             "url": "https://posa123.github.io/wildness-distro/servers/myserver-1.20.1/forgemods/required/tacz-1.20.1-1.1.7-hotfix.jar",
             "MD5": "e91391b09e25ec5994c28593117f5908"
+          }
+        },
+        {
+          "id": "net.smileycorp:hordes:1.5.4@jar",
+          "name": "The Hordes",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 585941,
+            "url": "https://posa123.github.io/wildness-distro/servers/myserver-1.20.1/forgemods/required/The-Hordes-1.20.1-1.5.4.jar",
+            "MD5": "61b0c6e48916048065fbdceced7e4cf1"
           }
         },
         {
